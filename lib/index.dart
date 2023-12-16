@@ -1,0 +1,113 @@
+// Export pages
+export '/pages/view/login/login_widget.dart' show LoginWidget;
+export '/pages/registres/registrer/registrer_widget.dart' show RegistrerWidget;
+export '/pages/view/dashboard/dashboard_widget.dart' show DashboardWidget;
+export '/pages/lists/novedades/novedades_widget.dart' show NovedadesWidget;
+export '/pages/lists/list_history_clinical/list_history_clinical_widget.dart'
+    show ListHistoryClinicalWidget;
+export '/pages/details/details_history/details_history_widget.dart'
+    show DetailsHistoryWidget;
+export '/pages/details/detalis_patient/detalis_patient_widget.dart'
+    show DetalisPatientWidget;
+export '/pages/lists/clinical_analysis/clinical_analysis_widget.dart'
+    show ClinicalAnalysisWidget;
+export '/pages/details/detals_catalog/detals_catalog_widget.dart'
+    show DetalsCatalogWidget;
+export '/pages/lists/list_vaccines_update/list_vaccines_update_widget.dart'
+    show ListVaccinesUpdateWidget;
+export '/pages/view/profile/profile_widget.dart' show ProfileWidget;
+export '/pages/view/admin/admin_widget.dart' show AdminWidget;
+export '/pages/registres/register_patient/register_patient_widget.dart'
+    show RegisterPatientWidget;
+export '/pages/registres/register_hitory_clinical/register_hitory_clinical_widget.dart'
+    show RegisterHitoryClinicalWidget;
+export '/pages/registres/register_vaccine/register_vaccine_widget.dart'
+    show RegisterVaccineWidget;
+export '/pages/registres/register_analisis_clinico/register_analisis_clinico_widget.dart'
+    show RegisterAnalisisClinicoWidget;
+export '/pages/registres/register_producto/register_producto_widget.dart'
+    show RegisterProductoWidget;
+export '/pages/lists/list_client/list_client_widget.dart' show ListClientWidget;
+export '/pages/lists/list_patient/list_patient_widget.dart'
+    show ListPatientWidget;
+export '/pages/lists/list_patientvaccine/list_patientvaccine_widget.dart'
+    show ListPatientvaccineWidget;
+export '/pages/lists/list_client_vaccine/list_client_vaccine_widget.dart'
+    show ListClientVaccineWidget;
+export '/pages/lists/list_patientvaccine_consult/list_patientvaccine_consult_widget.dart'
+    show ListPatientvaccineConsultWidget;
+export '/pages/lists/list_client_examen/list_client_examen_widget.dart'
+    show ListClientExamenWidget;
+export '/pages/lists/list_patient_examen/list_patient_examen_widget.dart'
+    show ListPatientExamenWidget;
+export '/pages/lists/list_patientexamenconsult/list_patientexamenconsult_widget.dart'
+    show ListPatientexamenconsultWidget;
+export '/pages/lists/list_client_history_clinica/list_client_history_clinica_widget.dart'
+    show ListClientHistoryClinicaWidget;
+export '/pages/lists/list_patient_history/list_patient_history_widget.dart'
+    show ListPatientHistoryWidget;
+export '/pages/lists/list_patient_history_consult/list_patient_history_consult_widget.dart'
+    show ListPatientHistoryConsultWidget;
+export '/pages/details/detail_producto/detail_producto_widget.dart'
+    show DetailProductoWidget;
+export '/pages/details/detail_novedades/detail_novedades_widget.dart'
+    show DetailNovedadesWidget;
+export '/pages/registres/register_novedades/register_novedades_widget.dart'
+    show RegisterNovedadesWidget;
+export '/pages/view/agenda_turnos/agenda_turnos_widget.dart'
+    show AgendaTurnosWidget;
+export '/pages/registres/register_analisis_clinico_update/register_analisis_clinico_update_widget.dart'
+    show RegisterAnalisisClinicoUpdateWidget;
+export '/pages/lists/list_history_clinical_update/list_history_clinical_update_widget.dart'
+    show ListHistoryClinicalUpdateWidget;
+export '/pages/details/details_examen_clinic/details_examen_clinic_widget.dart'
+    show DetailsExamenClinicWidget;
+export '/pages/lists/clinical_analysi_update/clinical_analysi_update_widget.dart'
+    show ClinicalAnalysiUpdateWidget;
+export '/pages/registres/register_vaccine_update/register_vaccine_update_widget.dart'
+    show RegisterVaccineUpdateWidget;
+export '/pages/lists/list_vaccines/list_vaccines_widget.dart'
+    show ListVaccinesWidget;
+export '/pages/details/details_vassine/details_vassine_widget.dart'
+    show DetailsVassineWidget;
+export '/pages/lists/list_catalog_update/list_catalog_update_widget.dart'
+    show ListCatalogUpdateWidget;
+export '/pages/registres/register_producto_update/register_producto_update_widget.dart'
+    show RegisterProductoUpdateWidget;
+export '/pages/lists/list_novedades_update/list_novedades_update_widget.dart'
+    show ListNovedadesUpdateWidget;
+export '/pages/registres/register_novedades_update/register_novedades_update_widget.dart'
+    show RegisterNovedadesUpdateWidget;
+export '/pages/lists/list_patientupdate/list_patientupdate_widget.dart'
+    show ListPatientupdateWidget;
+export '/pages/registres/register_patient_update/register_patient_update_widget.dart'
+    show RegisterPatientUpdateWidget;
+export '/pages/lists/list_client_update/list_client_update_widget.dart'
+    show ListClientUpdateWidget;
+export '/pages/view/profile_update/profile_update_widget.dart'
+    show ProfileUpdateWidget;
+export '/pages/lists/list_patient_history_update/list_patient_history_update_widget.dart'
+    show ListPatientHistoryUpdateWidget;
+export '/pages/lists/list_client_history_clinica_update/list_client_history_clinica_update_widget.dart'
+    show ListClientHistoryClinicaUpdateWidget;
+export '/pages/view/derivacion_hisotoria/derivacion_hisotoria_widget.dart'
+    show DerivacionHisotoriaWidget;
+export '/pages/registres/register_hitory_clinical_update/register_hitory_clinical_update_widget.dart'
+    show RegisterHitoryClinicalUpdateWidget;
+export '/pages/lists/list_client_prescripcion/list_client_prescripcion_widget.dart'
+    show ListClientPrescripcionWidget;
+export '/pages/lists/list_patient_prescripcion/list_patient_prescripcion_widget.dart'
+    show ListPatientPrescripcionWidget;
+export '/pages/registres/register_prescripcion/register_prescripcion_widget.dart'
+    show RegisterPrescripcionWidget;
+export '/pages/registres/register_prescripcion_update/register_prescripcion_update_widget.dart'
+    show RegisterPrescripcionUpdateWidget;
+export '/pages/lists/list_prescripcion_update/list_prescripcion_update_widget.dart'
+    show ListPrescripcionUpdateWidget;
+export '/pages/lists/list_pasinet_prescripcion_consulta/list_pasinet_prescripcion_consulta_widget.dart'
+    show ListPasinetPrescripcionConsultaWidget;
+export '/pages/lists/list_prescripcion_consult/list_prescripcion_consult_widget.dart'
+    show ListPrescripcionConsultWidget;
+export '/pages/details/detail_prescripcion/detail_prescripcion_widget.dart'
+    show DetailPrescripcionWidget;
+export '/pages/view/maps/maps_widget.dart' show MapsWidget;

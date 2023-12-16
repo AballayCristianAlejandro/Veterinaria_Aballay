@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "195453434753",
+    "project_id": "veterinaria-aballay",
+    "storage_bucket": "veterinaria-aballay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195453434753:android:69d324728b8e4f1efe4680",
+        "android_client_info": {
+          "package_name": "com.mycompany.vertarinariaaballay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195453434753-saraogvute5eb7cgrodts86h0bqd80bi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.vertarinariaaballay",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "195453434753-kc2f8gmktolcqvo2gd1ms3h4uff1cr8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Di7KVwI1wiGKLyBgobSZ7Nfd99hysSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195453434753-ilbks6dqgvd9kdsjg4v5vrd02ph9qs6a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "195453434753-tnej1m429jhrd8oialfehhb7vdnbje4j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.vertarinariaaballay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
